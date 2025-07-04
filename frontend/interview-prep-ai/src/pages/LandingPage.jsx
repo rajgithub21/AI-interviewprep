@@ -34,7 +34,7 @@ const LandingPage = () => {
         <div className="container mx-auto px-4 pt-6 pb-[200px] relative z-10">
           {/* Header */}
           <header className="flex justify-between items-center mb-16">
-            <div className="text-xl text-black font-bold">
+            <div className="text-5xl text-black font-bold">
               Interview Prep AI
             </div>
             {user ? (

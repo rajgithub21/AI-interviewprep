@@ -66,7 +66,7 @@ const Login = ({ setCurrentPage }) => {
           value={email}
           onChange={({ target }) => setEmail(target.value)}
           label="Email Address"
-          placeholder="john@example.com"
+          placeholder="Test email- raj@gmail.com"
           type="text"
         />
 
@@ -74,7 +74,7 @@ const Login = ({ setCurrentPage }) => {
           value={password}
           onChange={({ target }) => setPassword(target.value)}
           label="Password"
-          placeholder="Min 8 Characters"
+          placeholder="Test pass- 1234"
           type="password"
         />
 
